@@ -1,3 +1,4 @@
+TweenMax.to('.menu', 2,{left:-100});
 
 const toggleMenu = () => {
   // Toggle the "menu--open" class on your menu refence. 
